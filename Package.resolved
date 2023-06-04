@@ -42,7 +42,7 @@
       "location" : "https://github.com/tiagopoleze/PSNetwork",
       "state" : {
         "branch" : "main",
-        "revision" : "51054836edb58d8ca9efba42f281c0261ff45013"
+        "revision" : "bf96cc411c2acace5d2ba324dcb64f929d70adae"
       }
     },
     {
@@ -51,7 +51,7 @@
       "location" : "https://github.com/tiagopoleze/PSNetworkVapor",
       "state" : {
         "branch" : "main",
-        "revision" : "cdb2f49f9384844f823beab67c9457dc707ee5f7"
+        "revision" : "f5420d1a309889ad33f330799703ffaf5137c010"
       }
     },
     {
@@ -60,7 +60,7 @@
       "location" : "https://github.com/tiagopoleze/PSNetworkVaporSharedLibrary",
       "state" : {
         "branch" : "main",
-        "revision" : "d085ffbb64dcf7f976117ae486d844a0618d915e"
+        "revision" : "bec146836a970f1eee7707bd8bb66a040880011d"
       }
     },
     {
